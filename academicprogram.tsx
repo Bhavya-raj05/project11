@@ -46,5 +46,4 @@ const AcademicProgramPlanner = () => {
 };
 
 
-export default AcademicProgramPlanner;
 
