@@ -18,4 +18,5 @@ const AcademicCalendar = () => {
   );
 };
 
+export default AcademicCalendar;
 
