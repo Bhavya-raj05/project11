@@ -18,5 +18,4 @@ const AssessmentManagement = () => {
   );
 };
 
-export default AssessmentManagement;
 
